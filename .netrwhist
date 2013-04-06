@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/luxiaoyong/code/chance_easy/examples'
+let g:netrw_dirhist_2='/home/luxiaoyong/code/chance_easy_examples/db'
+let g:netrw_dirhist_3='/home/luxiaoyong/code/chance_easy/lib/tasks'
+let g:netrw_dirhist_4='/home/luxiaoyong/.rvm/gems/ruby-1.9.2-p290/bin'
+let g:netrw_dirhist_5='/home/luxiaoyong/.vim/bundle'
